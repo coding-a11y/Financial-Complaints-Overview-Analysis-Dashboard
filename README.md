@@ -1,5 +1,9 @@
-# Financial-Complaints-Overview-Analysis-Dashboard
+# Financial-Complaints-Overview-Report
 ### Dashboard Link - https://app.powerbi.com/links/b32S1K1d7y?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShare
+
+![image](https://github.com/user-attachments/assets/3aaf7d04-4b4b-44ba-9609-73bcbce53101)
+
+
 ## Problem Statement
 
 Financial Complaints Overview Dashboard in Power BI
